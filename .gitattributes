@@ -1,0 +1,17 @@
+* text=auto
+*.js   text
+*.css  text
+*.html text
+*.md   text
+*.json text
+*.ts   text
+*.jsx  text
+*.tsx  text
+*.yml  text
+*.yaml text
+*.sh   text eol=lf
+*.bat  text eol=crlf
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary 
